@@ -47,10 +47,8 @@ Built on a clean and modular Spring Boot architecture, it ensures easy scalabili
 
 
 ## 🚀 Getting Started  
-
-##Clone the Repository  
-```bash
-git clone https://github.com/your-username/Online-Book-Store.git
+Clone the Repository  
+```bash git clone https://github.com/your-username/Online-Book-Store.git
 
 ## Dependencies
 - `Eclipse-IDE For Java Developer`
